@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704730679193",
+    "firebase_url": "https://travel-8ac4e.firebaseio.com",
+    "project_id": "travel-8ac4e",
+    "storage_bucket": "travel-8ac4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704730679193:android:6cc018f5ac137273",
+        "android_client_info": {
+          "package_name": "com.maku.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704730679193-c2t5tthq01ccu2tehgmi24p8c79h3p66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maku.travel",
+            "certificate_hash": "697abd721b4f7c7a1e2411d8116700b15dd9fbd3"
+          }
+        },
+        {
+          "client_id": "704730679193-23ri30hgcoolkedlcc10alhncqpt8snu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg27tU2uyZXFwWGRKSA3OpC5rIwxrwHSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704730679193-23ri30hgcoolkedlcc10alhncqpt8snu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
